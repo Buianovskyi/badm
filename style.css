@@ -6,14 +6,23 @@ body {
   text-align: center;
   text-decoration: blink;
 }
+div {
+  width: 500px;
+  height: 100px; /* если высота не будет задана явна, она будет равна 100% */
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
 h1 {
-	margin: auto;
-	position: absolute;
+	
 	text-align: center;
 	font-size: 60pt; /* Размер основного шрифта в пунктах  */
 }
 h2 {
-	position: absolute;
+	
 	text-align: center;
 	font-size: 50pt; /* Размер основного шрифта в пунктах  */
 }
