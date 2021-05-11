@@ -7,8 +7,10 @@ body {
   text-decoration: blink;
 }
 h1 {
+	text-align: center;
 	font-size: 60pt; /* Размер основного шрифта в пунктах  */
 }
 h2 {
+	text-align: center;
 	font-size: 50pt; /* Размер основного шрифта в пунктах  */
 }
