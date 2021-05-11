@@ -3,7 +3,7 @@ body {
   
   background-color: #00FF59; /* Цвет фона веб-страницы */
   color: #FD2B06; /* Цвет основного текста */ 
-  text-align: center;
+  
   text-decoration: blink;
 }
 
