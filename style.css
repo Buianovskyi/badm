@@ -7,8 +7,7 @@ body {
   text-decoration: blink;
 }
 div {
-  width: 500px;
-  height: 100px; /* если высота не будет задана явна, она будет равна 100% */
+  
   position: absolute;
   top: 0;
   bottom: 0;
