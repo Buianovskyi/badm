@@ -3,20 +3,21 @@ body {
   
   background-color: #00FF59; /* Цвет фона веб-страницы */
   color: #FD2B06; /* Цвет основного текста */ 
-  
+  text-align: center;
+	vertical-align: middle;
   text-decoration: blink;
 }
 
 h1 {
 	
 	
-	vertical-align: middle;
-	text-align: center;
+	
+	
 	font-size: 60pt; /* Размер основного шрифта в пунктах  */
 }
 h2 {
 	
-	vertical-align: middle;
-	text-align: center;
+	
+	
 	font-size: 50pt; /* Размер основного шрифта в пунктах  */
 }
